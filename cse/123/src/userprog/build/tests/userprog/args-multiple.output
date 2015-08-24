@@ -1,0 +1,82 @@
+Copying tests/userprog/args-multiple to scratch partition...
+Writing command line to /tmp/TiIPns20Iv.dsk...
+qemu -hda /tmp/TiIPns20Iv.dsk -hdb /tmp/sYw2PUdVIX.dsk -hdc /tmp/A0MjBjo3CB.dsk -m 4 -net none -nographic -monitor null
+Kernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run 'args-multiple some arguments for you!'
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffSimulation terminated due to kernel panic.

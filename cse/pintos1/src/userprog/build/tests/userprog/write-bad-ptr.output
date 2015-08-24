@@ -1,0 +1,83 @@
+Copying tests/userprog/write-bad-ptr to scratch partition...
+Copying ../../tests/userprog/sample.txt to scratch partition...
+Writing command line to /tmp/UuoFWXCbId.dsk...
+qemu -hda /tmp/UuoFWXCbId.dsk -hdb /tmp/MrLUZOf9oZ.dsk -hdc /tmp/m6mdxfNi7r.dsk -m 4 -net none -nographic -monitor null
+Kernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run write-bad-ptr
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffSimulation terminated due to kernel panic.

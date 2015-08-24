@@ -1,0 +1,139 @@
+/*#include "stack.h"
+int main()
+{
+   /* stack1* st1=NULL;
+    st1=new stack1(40);
+    st1->push(1);
+    st1->push(2);
+    st1->push(3);
+    st1->push(4);
+    st1->pop();
+    st1->push(5);
+    st1->push(1234);
+    st1->display();
+    delete st1;
+    return 0;*/
+	#include <iostream>
+#include "graph.h"
+//How to compile code:  g++ main.cpp Graph.cpp
+//How to run code: ./a.out < input1
+
+using namespace std;
+
+int main()
+{
+
+    int choice;
+    graph* G=NULL;
+
+do{
+	cout<<"1. Create new graph"<<endl;
+	cout<<"2. Add a new edge to the graph"<<endl;
+	cout<<"3. Delete an edge from the graph"<<endl;
+	cout<<"4. BFS of graph"<<endl;
+	cout<<"5. DFS of graph"<<endl;
+	cout<<"6. Get the number of components of the graph"<<endl;
+	cout<<"7. Check if bipartite"<<endl;
+
+	cout<<"Any other choice to exit"<<endl;
+	cout<<"Enter your choice:";
+	cin>>choice;
+	cout<<"You entered "<<choice<<endl;
+	switch(choice){
+		case 1:
+			if(G!=NULL){
+				delete G;
+			}
+			int vcount;
+			cout<<"How many vertices in your graph? "<<endl;
+			cin>>vcount;
+			G = new graph(vcount);
+			//create graph with zero edges
+			//vertices are labeled as 0, 1, 2...vcount-1
+			//it is a simple undirected unweighted graph
+			//you can use adjacency list of matrix to represent the graph
+
+			break;
+
+		case 2:
+			if(G==NULL){
+				cout<<"Create a new graph first"<<endl;
+				break;
+			}
+			int v1, v2;
+			cout<<"Enter first endpoint of edge"<<endl;
+			cin>>v1;
+			cout<<"Enter second endpoint of edge"<<endl;
+			cin>>v2;
+			G->AddEdge(v1,v2);
+			break;
+
+		case 3:
+			if(G==NULL){
+				cout<<"Create a new graph first"<<endl;
+				break;
+			}
+			//int v1, v2;
+			cout<<"Enter first endpoint of edge"<<endl;
+			cin>>v1;
+			cout<<"Enter second endpoint of edge"<<endl;
+			cin>>v2;
+			G->deleteEdge(v1,v2);
+			break;
+
+		case 4:
+			if(G==NULL){
+				cout<<"Create a new graph first"<<endl;
+				break;
+			}
+		    int source;
+		    cout<<"Enter source vertex for BFS"<<endl;
+		    cin>>source;
+		    G->BFS(source);
+
+		    break;
+
+		case 5:
+			if(G==NULL){
+				cout<<"Create a new graph first"<<endl;
+				break;
+			}
+		   // int source;
+		    cout<<"Enter source vertex for DFS"<<endl;
+		    cin>>source;
+		    G->DFS(source);
+		    //Read section 22.3 from Cormen book
+		    //DFS can be performed with multiple sources as well. However we will stick to the convention that DFS starts from a source and covers only reachable vertices
+			break;
+		case 6:
+			if(G==NULL){
+				cout<<"Create a new graph first"<<endl;
+				break;
+			}
+			cout<<"Enter the lowest valued vertex in the graph"<<endl;
+			cin>>v1;
+			G->get_numberofcomponents(v1);
+			break;
+		case 7:
+			if(G==NULL){
+				cout<<"Create a new graph first"<<endl;
+				break;
+			}
+			cout<<"Enter the lowest valued vertex in the graph"<<endl;
+			cin>>v1;
+			G->check_ifbipartite(v1);
+			break;
+
+
+		default:
+			return(0);
+	}
+
+}while(true);
+
+
+
+
+    return 0;
+}
+

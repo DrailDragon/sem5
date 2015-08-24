@@ -1,0 +1,83 @@
+Copying tests/userprog/rox-multichild to scratch partition...
+Copying tests/userprog/child-rox to scratch partition...
+Writing command line to /tmp/nWENZvWhmw.dsk...
+qemu -hda /tmp/nWENZvWhmw.dsk -hdb /tmp/3EnSbN9lAS.dsk -hdc /tmp/UPGA8uPPdD.dsk -m 4 -net none -nographic -monitor null
+Kernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run rox-multichild
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffSimulation terminated due to kernel panic.

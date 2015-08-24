@@ -1,0 +1,105 @@
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 1
+How many vertices in your graph? 
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 2
+Enter first endpoint of edge
+Enter second endpoint of edge
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 4
+Enter source vertex for BFS
+5  6  7  0  3  2  1  
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 5
+Enter source vertex for DFS
+1  2  3  0  7  6  5  
+1. Create new graph
+2. Add a new edge to the graph
+3. Delete an edge from the graph
+4. BFS of graph
+5. DFS of graph
+Any other choice to exit
+Enter your choice:You entered 9

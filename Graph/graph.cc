@@ -1,0 +1,235 @@
+#include "graph.h"
+graph::graph(int siz)
+{
+n=siz;
+int i,j;
+ depth1=NULL;
+
+depth=NULL;
+G=new int*[n];
+for( j=0;j<n;j++)
+G[j]=new int[n];
+for(i=0;i<n;i++)
+	{
+		for(j=0;j<n;j++)
+			G[i][j]=0;
+	}
+	ancestor=NULL;
+
+	visitedc=NULL;
+	ancestord=NULL;
+
+
+}
+graph::~graph(){}
+bool graph::AddEdge(int x,int y)
+{
+G[x][y]=1;
+G[y][x]=1;
+return true;
+}
+bool graph::deleteEdge(int x,int y)
+{
+G[x][y]=0;
+G[y][x]=0;
+return true;
+}
+int graph::BFS(int s)
+{
+que* q1=NULL;
+int* ancestorbfs=NULL;
+int i,j;
+depth1=new int[n];
+for(i=0;i<n;i++)
+depth1[i]=0;
+q1=new que(50);
+ancestorbfs=new int[n];
+for(i=0;i<n;i++)
+ancestorbfs[i]=0;
+visited=new int[n];
+	for(j=0;j<n;j++)
+		visited[j]=false;
+
+q1->enque(s);
+int k,flag=0;
+visited[s]=true;
+ancestorbfs[s]=s;
+depth1[s]=0;
+while(!q1->if_empty())
+{
+k=q1->dequeue();
+cout<<"vertex is"<<" "<<k<<" "<<"ancestor is"<<""<<ancestorbfs[k]<<" "<<"depth from source vertex is"<<" "<<depth1[k]<<endl;
+/*if(k==f)
+{ flag=1;return k;}
+else
+{*/
+for(i=0;i<n;i++)
+{
+	if(visited[i]==false && G[k][i]==1)
+	{
+		visited[i]=true;
+		q1->enque(i);
+		depth1[i]=depth1[k]+1;
+		ancestorbfs[i]=k;
+	}
+}
+
+}
+/*if(flag==0)
+{
+cout<<"vertex not found"<<endl;
+return false;
+}*/
+//delete depth1;
+//delete visited;
+//delete ancestor;
+cout<<endl;
+return true;
+}
+int graph::DFS(int s)
+{
+stack1* s1=NULL;
+s1=new stack1(50);
+s1->push(s);int j;
+visited=new int[n];
+	for(j=0;j<n;j++)
+		visited[j]=false;
+int k,i,flag=0;
+int* depth2=NULL;
+ancestor=new int[n];
+depth2=new int[n];
+for(i=0;i<n;i++)
+depth2[i]=0;
+	for(j=0;j<n;j++)
+	ancestor[j]=0;
+visited[s]=true;
+ancestor[s]=s;
+while(!s1->if_empty())
+{
+k=s1->pop();
+cout<<"vertex is"<<" "<<k<<" "<<"ancestor is"<<""<<ancestor[k]<<" "<<"depth from source vertex is"<<" "<<depth2[k]<<endl;
+/*if(k==n-1)
+{ flag=1;return k;}
+else
+{*/
+for(i=n-1;i>=0;i--)
+{
+	if(visited[i]==false && (G[k][i]==1 || G[i][k]==1))
+	{
+		visited[i]=true;
+		s1->push(i);
+		depth2[i]=depth2[k]+1;
+		ancestor[i]=k;
+	}
+}
+
+}
+/*}
+if(flag==0)
+{
+cout<<"vertex not found"<<endl;
+return false;
+}*/
+delete visited;
+delete ancestor;
+cout<<endl;
+return true;
+}
+bool graph::get_numberofcomponents(int s)
+{
+	int count=1,i,j,unvisited,f=0;
+	visitedc=new int[n];
+	for(j=0;j<n;j++)
+		visitedc[j]=false;
+	ancestord=new int[n];
+	for(j=0;j<n;j++)
+	ancestord[j]=0;
+	depth=new int[n];
+	BFS1(s);
+	unvisited=s;
+	while(unvisited<n)
+	{
+
+		while(visitedc[unvisited]==true)
+		{
+			unvisited++;
+		}
+		s=((unvisited<n)?unvisited:n-1);
+		if(s==(n-1))
+			{
+				for(j=0;j<n;j++)
+					{
+						if(G[s][j]==1 || G[j][s]==1)
+							f=1;
+					}
+			}
+		if(f==0)
+		{BFS1(s);
+		count++;}
+	}
+	cout<<"graph has "<<" "<<count<<"components"<<endl;
+	delete visitedc;
+	delete ancestord;
+	delete depth;
+	return true;
+}
+bool  graph::check_ifbipartite(int s)
+{
+	int flag=0,i,j;
+	BFS(s);
+	for(i=s;i<n;i++)
+	{
+		for(j=0;j<n,j!=i;j++)
+		{
+			if(depth1[i]==depth1[j])
+				{
+					if(G[i][j]==1 || G[j][i]==1)
+						flag=1;
+				}
+		}
+	}
+	if(flag==1)
+cout<<"graph is not bipartite"<<endl;
+	else
+	cout<<"graph is bipartite"<<endl;
+	return true;
+}
+int graph::BFS1(int s)
+{
+que* q1=NULL;
+int i;
+
+q1=new que(50);
+q1->enque(s);
+int k,flag=0;
+visitedc[s]=true;
+ancestord[s]=s;
+depth[s]=0;
+while(!q1->if_empty())
+{
+k=q1->dequeue();
+cout<<"vertex is"<<" "<<k<<" "<<"ancestor is"<<""<<ancestord[k]<<" "<<"depth from source vertex is"<<" "<<depth[k]<<endl;
+/*if(k==f)
+{ flag=1;return k;}
+else
+{*/
+for(i=0;i<n;i++)
+{
+	if(visitedc[i]==false && G[k][i]==1)
+	{
+		visitedc[i]=true;
+		q1->enque(i);
+		depth[i]=depth[k]+1;
+		ancestord[i]=k;
+	}
+}
+
+}
+/*if(flag==0)
+{
+cout<<"vertex not found"<<endl;
+return false;
+}*/
+cout<<endl;
+return true;
+}

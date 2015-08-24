@@ -1,0 +1,197 @@
+Enter the initial size of the stack to be implemented
+You entered 	5
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	6
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	7
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	8
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	3
+Stack has 	3	 elements
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	9
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	10
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	4
+10	9	8	7	6	
+Stack contents are (dispalyed top to bottom)
+
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Stack full,incrementing the size by 10
+Pushed	11
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	12
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	1
+Eneter the integer to push on the stack
+Pushed	13
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	4
+13	12	11	10	9	8	7	6	
+Stack contents are (dispalyed top to bottom)
+
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	2
+Popped	13
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	2
+Popped	12
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	2
+Popped	11
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	2
+Popped	10
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	4
+9	8	7	6	
+Stack contents are (dispalyed top to bottom)
+
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	2
+Popped	9
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	5
+Peak element is	8
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	3
+Stack has 	3	 elements
+1. Push an element
+2. Pop an element
+3. Check if stack is empty
+4. Display stack elements
+5. Get top element
+Enter any other option to exit
+Choose the option
+You entered 	34
+Exiting

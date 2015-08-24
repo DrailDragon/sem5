@@ -1,0 +1,177 @@
+Eneter the initial size of the queue you want to implement:
+You entered	5
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	7
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	8
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	3
+Queue has 	2elements
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	4
+7	8	
+Queue contents are displayed from head to tail
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	9
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	10
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	11
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+queue is full, incrementing queue-size by 10
+Enqueued	12
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	13
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	4
+7	8	9	10	11	12	13	
+Queue contents are displayed from head to tail
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	2
+Dequeued	7 
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	2
+Dequeued	8 
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	4
+9	10	11	12	13	
+Queue contents are displayed from head to tail
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	2
+Dequeued	9 
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	3
+Queue has 	4elements
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	2
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	2
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	1
+Enter the integer to enqueue into the queue:
+Enqueued	4
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	4
+10	11	12	13	2	2	4	
+Queue contents are displayed from head to tail
+1.Enqueue an element
+2.Dequeue an element
+3.Check if queue is empty
+4.Display elements of the queue
+Eneter any other option to exit
+Choose the option:
+You entered	231
+Exiting

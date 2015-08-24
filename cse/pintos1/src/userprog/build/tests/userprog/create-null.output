@@ -1,0 +1,82 @@
+Copying tests/userprog/create-null to scratch partition...
+Writing command line to /tmp/4B6TFNsdxb.dsk...
+qemu -hda /tmp/4B6TFNsdxb.dsk -hdb /tmp/STDmpU4w60.dsk -hdc /tmp/74sH8YGPR1.dsk -m 4 -net none -nographic -monitor null
+Kernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffKernel command line: -q -f extract run create-null
+Kernel PANIC at ../../threads/init.c:261 in parse_options(): unknown option `-f' (use -h for help)
+Call stack: 0xc002ff88 0x3ef000ffSimulation terminated due to kernel panic.

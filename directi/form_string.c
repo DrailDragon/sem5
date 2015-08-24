@@ -1,0 +1,89 @@
+/***Question 1: A string can contain only a, b or c. There cannot be 2 consecutive same character. First and last character cannot be same. Now given a string with ‘a’, ‘b’, ‘c’ or ‘?’. We need to find the string replacing ‘?’ that satisfy the above conditions. For multiple answer display lexicographically smallest string. For no answer possible display “Not Possible”.****/
+#include<iostream>
+#include<cstdlib>
+#include<cstring>
+using namespace std;
+int main(){
+	char st[20];
+	cin>>st;
+	int i;
+	int len=strlen(st);
+	cout<<"original string:\t"<<st<<endl;
+	for(i=len-1;i>=0;i--){
+		if(st[i]=='?'){
+				if(i==0){
+				switch(st[len-1]){
+					case 'a':
+						if(st[i+1]=='b'){
+							st[i]='c'; break;
+							}
+						else 							st[i]='b';
+						break;
+					case 'b':
+						if(st[i+1]=='b'){
+							st[i]='c';
+							break;}
+						else 							st[i]='a';
+						break;
+					case 'c':
+						if(st[i+1]=='b'){
+							st[i]='a';
+							break;
+							}
+						else 							st[i]='b';
+						break;
+				}
+			    }else if(i==len-1){
+				switch(st[0]){
+					case 'a':
+						if(st[i-1]=='b'){
+							st[i]='c'; 
+							break;
+							}
+						else 							st[i]='b';
+						break;
+					case 'b':
+						if(st[i-1]=='b'){
+							st[i]='c';
+							break;
+							}
+						else 							st[i]='a';
+						break;
+					case 'c':
+						if(st[i-1]=='b'){
+							st[i]='a';
+							break;
+							}
+						else 							st[i]='b';
+						break;
+					}
+				}else{
+				switch(st[i+1]){
+					case 'a':
+						if(st[i-1]=='b'){
+							st[i]='c';
+							break;
+							}
+						else 							st[i]='b';
+						break;
+					case 'b':
+						if(st[i-1]=='b'){
+							st[i]='c';
+							break;
+							}
+						else 							st[i]='a';
+						break;
+					case 'c':
+						if(st[i-1]=='b'){
+							st[i]='a';
+							break;
+							}
+						else 							st[i]='b';
+						break;
+					}
+				}
+			}
+	}
+	cout<<"required string:\t"<<st<<endl;	
+	return 0;
+}

@@ -1,0 +1,46 @@
+//To request an iterator appropriate for a particular STL templated class, you use the syntax 
+std::class_name<template_parameters>::iterator name
+//to declare an iterator
+std::vector<int> myIntVector;
+std::vector<int>::iterator myIntVectorIterator;
+/*Different operations and containers support different types of iterator behavior. In fact, there are several different classes of iterators, each with slightly different properties. First, iterators are distinguished by whether you can use them for reading or writing data in the container. Some types of iterators allow for both reading and writing behavior, though not necessarily at the same time.
+
+Some of the most important are the forward, backward and the bidirectional iterators. Both of these iterators can be used as either input or output iterators, meaning you can use them for either writing or reading. The forward iterator only allows movement one way -- from the front of the container to the back. To move from one element to the next, the increment operator, ++, can be used.
+
+For instance, if you want to access the elements of an STL vector, it's best to use an iterator instead of the traditional C-style code. The strategy is fairly straightforward: call the container's begin function to get an iterator, use ++ to step through the objects in the container, access each object with the * operator ("*iterator") similar to the way you would access an object by dereferencing a pointer, and stop iterating when the iterator equals the container's end iterator. You can compare iterators using != to check for inequality, == to check for equality. (This only works when the iterators are operating on the same container!)
+*/
+//The old approach (avoid)
+
+using namespace std;
+
+vector<int> myIntVector;
+// Add some elements to myIntVector
+myIntVector.push_back(1);
+myIntVector.push_back(4);
+myIntVector.push_back(8);
+
+for(int y=0; y<myIntVector.size(); y++)
+{
+    cout<<myIntVector[y]<<" ";
+    //Should output 1 4 8
+}
+//The STL approach (use this)
+
+using namespace std;
+
+vector<int> myIntVector;
+vector<int>::iterator myIntVectorIterator;
+
+// Add some elements to myIntVector
+myIntVector.push_back(1);
+myIntVector.push_back(4);
+myIntVector.push_back(8);
+
+for(myIntVectorIterator = myIntVector.begin(); 
+        myIntVectorIterator != myIntVector.end();
+        myIntVectorIterator++)
+{
+    cout<<*myIntVectorIterator<<" ";
+    //Should output 1 4 8
+}
+

@@ -1,0 +1,323 @@
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+1 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+2 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+3 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+4 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 4
+1	2	3	4	
+Queue-contents are displayed head to tail
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+5 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+6 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+7 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+12 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 3
+Queue has 	8	elements
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+23 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+1234 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+321 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 1
+Enter the integer to enqueue
+21 	 Enqueued
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	1
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	2
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	3
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 4
+4	5	6	7	12	23	1234	321	21	
+Queue-contents are displayed head to tail
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	4
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	5
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	6
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 4
+7	12	23	1234	321	21	
+Queue-contents are displayed head to tail
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	7
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	12
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	23
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 4
+1234	321	21	
+Queue-contents are displayed head to tail
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	1234
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	321
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 4
+21	
+Queue-contents are displayed head to tail
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Dequeued	21
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 2
+Queue is empty
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 3
+Queue is empty 
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 4
+Queue is empty
+Choose the options:
+1.Enqueue
+2.Dequeue
+3.Check if queue is empty
+4.Display queue-content
+Enter any other integer to exit
+Enter the choice
+You entered	 123
+Exiting

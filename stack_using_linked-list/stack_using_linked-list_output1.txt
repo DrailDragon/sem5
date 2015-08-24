@@ -1,0 +1,261 @@
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	2
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	3
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	4
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	5
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	5
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:4 
+5	5	4	3	2	
+Stack-contents are displayed from top to bottom
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	6
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	7
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	8
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:4 
+8	7	6	5	5	4	3	2	
+Stack-contents are displayed from top to bottom
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 8 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 7 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:4 
+6	5	5	4	3	2	
+Stack-contents are displayed from top to bottom
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 6 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 5 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 5 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:4 
+4	3	2	
+Stack-contents are displayed from top to bottom
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 4 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:2 
+Popped 3 
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:3 
+Stack has 	1	 elements
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:4 
+2	
+Stack-contents are displayed from top to bottom
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	3
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	4
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	5
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:1 
+Enter the integer: 
+Successfully pushed	5
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:4 
+5	5	4	3	2	
+Stack-contents are displayed from top to bottom
+Choose the option: 
+1.Push  
+2.Pop 
+3.Check if stack is empty 
+4.Display stack-contents 
+Any other option to Exit 
+Enter your choice: 
+You entered:78 
+Exiting

@@ -1,0 +1,6 @@
+Enter the initial stack-size you want to implement
+Enter the no. of push operations
+Enter the no. of pop operations
+Enter 6 	integers to push on the stack
+popping
+13	12	11	10	9	8	0	
